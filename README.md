@@ -1,4 +1,4 @@
-# powerbi-mini-projects
+# powerbi-projects
 
 <h3>KPI Tracker Dashboard</h3>
 <img src="https://user-images.githubusercontent.com/96763817/218354449-7d65cde3-f6ac-464f-a145-16ac0f764ba7.png" alt="appImage_1" width="600">
